@@ -1,6 +1,6 @@
 # Projeto com cadastro e listagem de pacientes e sistema de registro e login
 
-Neste projeto foi desenvolvido um site com sistemas de registro/login, cadastro de "pacientes" e a listagem dos mesmos, utilizando da liguagem PHP para desenvolvimento das funções citadas anterioermente, e também usando das linguagens html e css para construção e estilização dos elementos visuais da página.
+Neste projeto foi desenvolvido um site com sistemas de registro/login, cadastro de "pacientes" e a listagem dos mesmos, utilizando da linguagem PHP para desenvolvimento das funções citadas anteriormente, e também usando das linguagens HTML e CSS para construção e estilização dos elementos visuais da página.
 
 ## 🔖 Características
 
